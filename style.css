@@ -1,1 +1,35 @@
 /* Placeholder CSS */
+/* Placeholder CSS */
+header ul {
+background-color: grey;
+list-style-type: none; 
+overflow: hidden;     
+}
+
+header li {
+    float: left;
+
+}
+header li a {
+    padding: 14px;
+    color: white;
+    text-decoration: none;      
+}
+
+header li a:hover {
+    background-color: green;
+}
+
+footer {
+    background-color: gray;
+    color: white;
+
+}
+body {
+margin: 0px;
+}
+
+#body {
+    margin: 10px;
+
+}
